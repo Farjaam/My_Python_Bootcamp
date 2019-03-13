@@ -1,2 +1,8 @@
-# My_Python_Bootcamp
-its another Udemy Tutorial for python
+# Complete-Python-3-Bootcamp
+Course Files for Complete Python 3 Bootcamp Course on Udemy
+
+
+Get it now for 95% off with the link:
+https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
+
+Thanks!
